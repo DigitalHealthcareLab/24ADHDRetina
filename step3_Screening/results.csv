@@ -1,0 +1,1 @@
+task,cutoff,undersampling_ratio,model_name,patient_num,image_num,patient_train_AUROC,patient_valid_AUROC,patient_test_AUROC,image_train_AUROC,image_valid_AUROC,image_test_AUROC

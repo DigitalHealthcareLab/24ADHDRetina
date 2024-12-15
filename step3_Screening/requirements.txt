@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+xgboost
+lightgbm
+pyyaml
+omegaconf

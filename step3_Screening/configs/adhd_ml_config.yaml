@@ -1,0 +1,13 @@
+seed: 2024
+
+raw_data_dir : ../data
+automorph_data_name : automorph_result.csv
+adhd_info_data_name : adhd_normal.csv
+
+save_dir : Results
+data_save_dir : data
+preprocess_df_name : preprocess_data.csv
+fold_df_name : input_data.csv
+target_column: adhd
+
+num_folds : 5
