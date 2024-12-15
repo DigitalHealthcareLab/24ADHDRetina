@@ -2,6 +2,8 @@
 
 This repository contains code for the pipeline used in this study.
 
+
+
 ### Step 0 : Environment setting
 Our pipeline was built with Python version 3.9.15, and other detailed versions are listed on `reuquirements.txt`
 
@@ -40,3 +42,5 @@ Then, run
 
 The results will be automatically generated in "save_dir" notated in configs.yaml
 
+### sample data
+- This directory contains the sample data
